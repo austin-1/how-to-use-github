@@ -57,7 +57,7 @@ GitHub Discussions enhance collaboration beyond code:
 
 ## **Learning Resources:**
 
-1. [GitHub Collaborating with Issues and Pull Requests](https://docs.github.com/en/collaborating-with-issues-and-pull-requests)
+1. [GitHub Collaborating with Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 2. [GitHub Teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
 
 GitHub's collaboration features empower teams to build amazing things together. Embrace the power of collaboration and elevate your projects to new heights! &#128640;&#129309;
