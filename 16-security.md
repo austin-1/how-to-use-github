@@ -2,43 +2,43 @@
 
 GitHub provides a robust set of security features and best practices to help developers maintain a secure and resilient development environment. By implementing these practices, you can protect your code, data, and collaboration on the GitHub platform.
 
-## **1. **Code Scanning:**
+## 1. **Code Scanning:**
 
 - Leverage GitHub's native code scanning to automatically find and fix vulnerabilities in your codebase.
 
-## **2. **Dependency Insights:**
+## 2. **Dependency Insights:**
 
 - Gain visibility into your project's dependencies and receive alerts about known security vulnerabilities.
 
-## **3. **Secrets Management:**
+## 3. **Secrets Management:**
 
 - Safeguard sensitive information by using GitHub Secrets for storing and accessing encrypted credentials.
 
-## **4. **Branch Protection:**
+## 4. **Branch Protection:**
 
 - Apply branch protection rules to safeguard important branches, preventing unauthorized changes.
 
-## **5. **Two-Factor Authentication (2FA):**
+## 5. **Two-Factor Authentication (2FA):**
 
 - Enable 2FA to add an extra layer of security to your GitHub account.
 
-## **6. **Security Advisories:**
+## 6. **Security Advisories:**
 
 - Keep track of security advisories related to your projects and apply recommended patches.
 
-## **7. **Security Policies:**
+## 7. **Security Policies:**
 
 - Define and enforce security policies for your repositories, outlining expectations for contributors.
 
-## **8. **Security Automation:**
+## 8. **Security Automation:**
 
 - Automate security processes using GitHub Actions to streamline security checks and responses.
 
-## **9. **Vulnerability Response:**
+## 9. **Vulnerability Response:**
 
 - Establish clear processes for identifying, reporting, and mitigating security vulnerabilities in your projects.
 
-## **10. **GitHub Security Learning Resources:**
+## 10. **GitHub Security Learning Resources:**
 
 1. [GitHub Security Center](https://github.com/security)
 2. [GitHub Learning Lab: Securing Your Workflow](https://lab.github.com/githubtraining/securing-your-workflow)
