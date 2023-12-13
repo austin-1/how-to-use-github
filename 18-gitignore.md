@@ -37,8 +37,7 @@ Version control is a powerful ally in managing codebase history, but not every f
 
 ## Learning Resources:
 
-1. [GitHub Docs: Ignoring files](https://docs.github.com/en/github/using-git/supported-file-formats-on-github#ignoring-files)
-2. [gitignore.io](https://www.gitignore.io/): A handy tool for generating `.gitignore` files based on project specifics.
+1. [gitignore.io](https://www.gitignore.io/): A handy tool for generating `.gitignore` files based on project specifics.
 
 ## Tips and Best Practices:
 
