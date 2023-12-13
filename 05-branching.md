@@ -66,4 +66,4 @@ In Git, a branch is essentially a lightweight movable pointer to a commit. The d
 3. **Branch Cleanup:**
    - Delete branches that have served their purpose to maintain a clean and manageable repository.
 
-Understanding branching is pivotal for effective version control and collaborative development in Git. Whether you're working on a solo project or contributing to a team effort, mastering branches will elevate your Git proficiency. 🌿🚀
+Understanding branching is pivotal for effective version control and collaborative development in Git. Whether you're working on a solo project or contributing to a team effort, mastering branches will elevate your Git proficiency. &#127807;&#128640;
