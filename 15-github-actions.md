@@ -51,6 +51,5 @@ GitHub Actions empowers developers to automate workflows, test code, and deploy 
 ## **Learning Resources:**
 
 1. [GitHub Actions Documentation](https://docs.github.com/en/actions)
-2. [GitHub Learning Lab: Introduction to GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
 GitHub Actions revolutionizes the way developers manage their workflows. Explore its capabilities, automate your processes, and elevate your development experience with GitHub Actions! &#128640;&#129302;
