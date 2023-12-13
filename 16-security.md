@@ -41,6 +41,5 @@ GitHub provides a robust set of security features and best practices to help dev
 ## 10. **GitHub Security Learning Resources:**
 
 1. [GitHub Security Center](https://github.com/security)
-2. [GitHub Learning Lab: Securing Your Workflow](https://lab.github.com/githubtraining/securing-your-workflow)
 
 By integrating these security best practices into your GitHub workflow, you can fortify your development pipeline against potential threats and ensure a secure coding environment. Stay vigilant, adopt security measures, and build with confidence on GitHub! &#128272;&#128737;&#65039;
