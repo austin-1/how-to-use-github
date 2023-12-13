@@ -73,4 +73,4 @@ When you log in to GitHub, you're greeted with the dashboard. Here's what you'll
 - **Projects:** Organize tasks and plan the development process.
 - **Actions:** Automate workflows with custom scripts.
 
-Now that you're familiar with the GitHub interface, dive deeper into each feature to enhance your collaboration and coding experience. Happy coding! 👩‍💻🚀
+Now that you're familiar with the GitHub interface, dive deeper into each feature to enhance your collaboration and coding experience. Happy coding! &#128105;&zwj;&#128187;&#128640;
