@@ -55,3 +55,4 @@ Stay tuned for regular updates, new tutorials, and tips that will enhance your G
 Happy coding! &#128105;&zwj;&#128187;&#128104;&zwj;&#128187;
 
 ## Table of Contents
+1. [Introduction to Git Version Control](01-intro-to-version-control.md)
