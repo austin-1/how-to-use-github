@@ -4,47 +4,47 @@ GitHub Desktop provides a user-friendly interface to interact with Git repositor
 
 ## **Getting Started with GitHub Desktop:**
 
-### **1. **Installation:**
+### **1. Installation:**
 
 - Download and install GitHub Desktop from the [official GitHub Desktop website](https://desktop.github.com/).
 
-### **2. **Authentication:**
+### **2. Authentication:**
 
 - Sign in with your GitHub account to sync your repositories and access your projects seamlessly.
 
 ## **Key Features:**
 
-### **1. **Repository Cloning:**
+### **1. Repository Cloning:**
 
 - Clone repositories with just a few clicks, allowing you to work on projects locally.
 
-### **2. **Branching and Merging:**
+### **2. Branching and Merging:**
 
 - Create branches effortlessly, isolate your work, and merge changes seamlessly with the built-in tools.
 
-### **3. **Visual Diffs:**
+### **3. Visual Diffs:**
 
 - Visualize code changes with side-by-side diffs, making it easy to understand modifications before committing.
 
-### **4. **History and Blame Views:**
+### **4. History and Blame Views:**
 
 - Explore project history and identify contributors with the blame view, providing insights into code evolution.
 
-### **5. **Stashing:**
+### **5. Stashing:**
 
 - Temporarily save changes with stashing, ensuring a clean working directory.
 
 ## **GitHub Desktop Workflow:**
 
-### **1. **Branching:**
+### **1. Branching:**
 
 - Create feature branches to work on specific tasks without affecting the main codebase.
 
-### **2. **Commits:**
+### **2. Commits:**
 
 - Commit changes with descriptive messages, providing clarity about the purpose of each change.
 
-### **3. **Pull Requests:**
+### **3. Pull Requests:**
 
 - Open pull requests directly from GitHub Desktop, simplifying the process of contributing to projects.
 
