@@ -56,4 +56,11 @@ Happy coding! &#128105;&zwj;&#128187;&#128104;&zwj;&#128187;
 
 ## Table of Contents
 1. [Introduction to Git Version Control](01-intro-to-version-control.md)
-2. [Git Basics: A Beginner's Guide to Version Control](git-basics.md)
+2. [Git Basics: A Beginner's Guide to Version Control](02-git-basics.md)
+3. [GitHub Interface: Navigating the Coding Hub](03-github-web-ui.md)
+4. [Understanding GitHub Repositories](04-repositories.md)
+5. [Mastering Branching in Git](05-branching.md)
+6. [Navigating Collaboration with Pull Requests](06-pull-requests.md)
+7. [Embracing Collaboration with Forks](07-forks.md)
+8. [Unveiling the Power of Cloning](08-cloning.md)
+9. [Merging: Harmonizing Your Branches](09-merging.md)
