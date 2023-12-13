@@ -51,6 +51,5 @@ GitHub Desktop provides a user-friendly interface to interact with Git repositor
 ## **Learning Resources:**
 
 1. [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-2. [GitHub Learning Lab: Introduction to GitHub Desktop](https://lab.github.com/githubtraining/introduction-to-github-desktop)
 
 GitHub Desktop is the perfect companion for those who prefer a graphical interface while harnessing the power of Git. Dive in, explore its features, and enjoy a more visual and streamlined Git experience! &#128640;&#128421;&#65039;
