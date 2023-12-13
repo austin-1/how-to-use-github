@@ -44,8 +44,7 @@ GitHub CLI, or `gh`, is a powerful command-line interface that brings GitHub's f
 
 ## Learning Resources:
 
-1. [GitHub CLI Documentation](https://cli.github.com/manual/): Comprehensive guide to GitHub CLI commands and usage.
-2. [GitHub CLI on GitHub](https://github.com/cli/cli): GitHub repository for GitHub CLI.
+1. [GitHub CLI on GitHub](https://github.com/cli/cli): GitHub repository for GitHub CLI.
 
 ## Tips and Tricks:
 
